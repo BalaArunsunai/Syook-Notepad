@@ -1,0 +1,10 @@
+.card {
+    background-color: aliceblue;
+    color: black;
+    text-align: left;
+  }
+  .container {
+    padding: 2px ;
+  }
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */
